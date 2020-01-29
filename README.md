@@ -1,8 +1,8 @@
 # Camera_Calibaration
 
-Find the corners of the chess board and camera matrix, Distortion Coefficient, Rotational and Transverse Vector.[notebook](https://github.com/Pavithran99/Camera_Calibaration/blob/master/CheckerBoard.ipynb)
+1.Find the corners of the chess board and camera matrix, Distortion Coefficient, Rotational and Transverse Vector.[notebook](https://github.com/Pavithran99/Camera_Calibaration/blob/master/CheckerBoard.ipynb)
 
-Draw a cube with the camera matrix and other parameters.[notebook](https://github.com/Pavithran99/Camera_Calibaration/blob/master/draw_cube.ipynb) 
+2.Draw a cube with the camera matrix and other parameters.[notebook](https://github.com/Pavithran99/Camera_Calibaration/blob/master/draw_cube.ipynb) 
 
 [click here](https://www.youtube.com/watch?v=Xi2jMe8oDes) to see video.
 
